@@ -2,7 +2,7 @@
   "doi": "http://dx.doi.org/10.1890/13-1062.1",
   "format": "planque",
   "resources": {
-    "links": ""http://www.esapubs.org/archive/ecol/E095/124/revised/PairwiseList.txt"",
+    "links": "http://www.esapubs.org/archive/ecol/E095/124/revised/PairwiseList.txt",
     "references": "http://www.esapubs.org/archive/ecol/E095/124/revised/References.txt",
     "referencesForLinks": "http://www.esapubs.org/archive/ecol/E095/124/revised/PairWise2References.txt"
   }
