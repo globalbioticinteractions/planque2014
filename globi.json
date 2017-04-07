@@ -2,8 +2,9 @@
   "doi": "http://dx.doi.org/10.1890/13-1062.1",
   "format": "planque",
   "resources": {
-    "links": "http://www.esapubs.org/archive/ecol/E095/124/revised/PairwiseList.txt",
-    "references": "http://www.esapubs.org/archive/ecol/E095/124/revised/References.txt",
-    "referencesForLinks": "http://www.esapubs.org/archive/ecol/E095/124/revised/PairWise2References.txt"
+    "_comment": "data files cached from https://doi.org/10.6084/m9.figshare.3559350.v1",
+    "links": "PairWiseList.txt",
+    "references": "30331_References.txt",
+    "referencesForLinks": "PairWise2References.txt"
   }
 }
